@@ -1,0 +1,27 @@
+cnpm init -y 
+npm i ejs express dotenv bcrypt mongoose nodemailer jsonwebtoken
+npm i -D nodemon
+
+npm init -y 
+
+
+
+react
+npm install -g create-react-app    
+npx create-react-app my-app     
+cd my-app      
+npm start   
+
+npm i prop-types  # react
+npm i -D @babel/plugin-proposal-private-property-in-object
+
+
+// make dir using cmd
+mkdir filename
+cd filename
+(code -r. )           //copy paste
+
+
+
+vite   // new
+npm create vite@latest name-of-your-project -- --template react

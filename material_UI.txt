@@ -1,0 +1,32 @@
+'@mui/material'
+
+Qno: Box
+    css use garna vaya box use hunxa box provide garxa
+Qno: AppBar
+    yoo bohut use hunxa 
+Qno: Toolbar
+
+Qno: Typography
+    yoo vanako text lakhne ho p,h1,jj vayani sab text lakhne varient="h1"
+Qno: Button 
+    variant=(text,contained,outlined)
+Qno: CssBaseline
+
+Qno: TextField
+    input ligcha TextField la
+Qno: Alert
+    severty="error,success
+Qno: Grid 
+    grid aakdam use hune 12 column grid (grid container vitra grid item sx xs)
+Qno: FormControlLabel
+
+Qno: Checkbox 
+    value dina parxa checked vaya value hunxa natra null
+Qno: Card
+
+Qno: Tabs
+    tabs yo table heading ra table data jasto use hudo haixa
+
+Qno: Tab
+    yoo data jasto use hune haicha
+
